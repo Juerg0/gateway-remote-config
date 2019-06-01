@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEB19D59",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 46.908992,
+    "ref_longitude": 9.898836,
+    "ref_altitude": 1653,
+    "contact_email": "juerg.wyser@gmail.com",
+    "description": "TTN Klosters"
+  }
+}
